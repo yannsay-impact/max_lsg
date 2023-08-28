@@ -1,6 +1,5 @@
 # max_lsg
-alternative to msni2022
-
+alternative to msni2022. The function *make_lsg* aims to do the final/max aggregation between the critical indicators and the final non-critical indicator.
 
 ```
 source(max_lsg.R)
